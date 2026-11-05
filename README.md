@@ -11,7 +11,7 @@ Project Status:
 Database Contents:
 - Database structure and tables
 - Primary and foreign key relationships
-- Sample records
+- Sample records (included in the sql database file)
 - SQL queries
 - Stored procedures and functions
 - Views and other database objects
