@@ -1,4 +1,5 @@
-USE cdoprints_db;
+CREATE DATABASE IF NOT EXISTS cdoprints_solutions_db;
+USE cdoprints_solutions_db;
 
 SET FOREIGN_KEY_CHECKS = 1;
 
