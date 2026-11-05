@@ -5,7 +5,7 @@ Project Background:
    The proposed system was intended to manage printing orders, production processes, customer records, payments, and other related business operations.
 
 Project Status:
-   - CDOPrints Solutions was our initial proposed capstone client. However, we later decided to pursue a different client because of the limited number of employees     and the single-branch operation of the business, which did not fully meet our capstone project's requirements.Although this is no longer our current capstone 
+   - CDOPrints Solutions was our initial proposed capstone client. However, we later decided to pursue a different client because of the limited number of employees     and the single-branch operation of the business, which did not fully meet our capstone project's requirements. Although this is no longer our current capstone 
    proposal, we are retaining this database as our output for the Advanced Database subject.
 
 Database Contents:
