@@ -17,5 +17,5 @@ Database Contents:
 - Views and other database objects
 
 Purpose of Submission:
-    - This repository contains the database developed for our previous CDOPrints Solutions project. It is submitted as part of our Advanced Database subject
-    requirements.
+   - This repository contains the database developed for our previous CDOPrints Solutions project. It is submitted as part of our Advanced Database subject
+   requirements.
